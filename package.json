@@ -1,0 +1,10 @@
+{
+  "name": "exercweb",
+  "version": "1.0.0",
+  "scripts": {
+    "sass": "node-sass assets/sass/ex04.scss -o assets/css --watch"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
